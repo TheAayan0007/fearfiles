@@ -1,0 +1,8 @@
+cryptography>=42.0.0
+argon2-cffi>=23.1.0
+PySide6>=6.5.0
+
+# Optional: only needed if you want to preview .rar archives in the Read
+# tab (.zip works out of the box with no extra install). Also requires the
+# 'unrar' command-line tool to be installed on your system separately.
+# rarfile>=4.0
